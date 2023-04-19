@@ -38,6 +38,8 @@ namespace Test_boln
             dataGridView1.Columns.Add("Уход", "Уход");
             dataGridView1.Columns.Add("Дата", "Дата");
             dataGridView1.Columns.Add("IsNew", String.Empty);
+            this.dataGridView1.Columns["id"].Visible = false;
+            this.dataGridView1.Columns["IsNew"].Visible = false;
         }
 
         private void ClearFields() 
