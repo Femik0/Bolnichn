@@ -9,3 +9,6 @@ C:\Users\sasha\source\repos\Test boln\Test boln\obj\Debug\Test boln.csproj.CoreC
 C:\Users\sasha\source\repos\Test boln\Test boln\obj\Debug\Test boln.exe
 C:\Users\sasha\source\repos\Test boln\Test boln\obj\Debug\Test boln.pdb
 C:\Users\sasha\source\repos\Test boln\Test boln\obj\Debug\Test_boln.Add_Form.resources
+C:\Users\sasha\source\repos\Test boln\Test boln\obj\Debug\Test boln.csproj.ResolveComReference.cache
+C:\Users\sasha\source\repos\Test boln\Test boln\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasha\source\repos\Test boln\Test boln\obj\Debug\Test boln.csproj.CopyComplete

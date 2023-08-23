@@ -10,7 +10,7 @@ namespace Test_boln
     class DataBase
     {
 
-        SqlConnection sqlConnection = new SqlConnection(@"Data Source=DESKTOP-62OGQ78\SQLEXPRESS;Initial Catalog=test;Integrated Security=True");
+        SqlConnection sqlConnection = new SqlConnection(@"Data Source=DESKTOP-62OGQ78\SQLEXPRESS;Initial Catalog=Sick-leave;Integrated Security=True");
 
         public void openConnection()
         {
